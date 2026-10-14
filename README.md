@@ -1,5 +1,8 @@
 # MyBalanceVehicle
-Blance Vehicle Controled by BlueSerial
+Balance Vehicle Controled by BlueSerial
+> English | [中文](./README_CN.md)
+
+
 # STM32 Self-balancing Vehicle
 A self-balancing robot based on STM32F103, iteratively developed from bottom-layer driver test to complete three-loop PID control with code optimization.
 
